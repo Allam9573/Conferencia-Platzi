@@ -6,6 +6,12 @@
 a{
     text-decoration: none;
 }
+#header img{
+    width: 80px;
+}
 #footer{
     background-color: whitesmoke;
+}
+.text-platzi{
+    color: #97c93e !important;
 }
