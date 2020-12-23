@@ -1,2 +1,2 @@
 # Conferencia-Platzi
-Sitio desarrollado como parte del curso de Bootstrap de Platzi
+Sitio de ejemplo desarrollado como parte del curso de Bootstrap de Platzi
